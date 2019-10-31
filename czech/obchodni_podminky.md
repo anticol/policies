@@ -1,62 +1,73 @@
 # Obchodní podmínky Trisbee.com
 
-## ČÁST 1 – ÚVOD A ZÁKLADNÍ POJMY
+## 1. ÚVOD A ZÁKLADNÍ POJMY
 
-### 1.1 Systém Trisbee
+### 1.1 Trisbee tickets
 
-Trisbee je systém platebních služeb pro uživatele platebních služeb, kteří chtějí posílat a přijímat platby přes mobilní síť, zejména pomocí mobilní aplikace Trisbee (Aplikace), a pro obchodníky, kteří chtějí přijímat platby přes mobilní síť a spravovat přijaté platby pomocí pokročilejších funkcí dostupných zejména prostřednictvím platební aplikace Trisbee Go (Aplikace pro obchodníky). Vedle toho systém Trisbee umožňuje platby prostřednictvím pluginu, který si může příjemce platby umístit na své webové stránky (Plugin), nebo (iii) přístupu k serveru provozovatele přes rozhraní pro programování aplikací (API).
+Je služba určená k online prodeji vstupenek - ticketingu. Díky Trisbee tickets, je možné jednoduše nakupovat, prodávat, ale také objevovat kulturní, sportovní a další akce. K tomu slouží online portál www.tickets.trisbee.com. Dále také odbavovací aplikace, kterou provozovatel poskytuje pořadateli akce.
 
 ### 1.2 Kdo se řídí těmito obchodními podmínkami?
 
-- Trisbee s.r.o., se sídlem Vokovice, K Červenému vrchu 678/1, PSČ 160 00, IČO: 04775660, vedená v OR u Městského soudu v Praze pod spisovou značkou C 306886 (Provozovatel nebo my), jako poskytovatel platebních služeb. Více si o nás přečtete v článku 5.5.
+- Trisbee s.r.o., se sídlem Vokovice, K Červenému vrchu 678/1, PSČ 160 00, IČO: 04775660, vedená v OR u Městského soudu v Praze pod spisovou značkou C 306886 (Provozovatel nebo my), jako provozovatel portálu.
 
-- Každý, kdo vyjádří souhlas s těmito obchodními podmínkami, aby mohl používat platební služby Provozovatele (Uživatel).
+- Každý, kdo vyjádří souhlas s těmito obchodními podmínkami, aby mohl používat služby Provozovatele (Uživatel).
 
-- Každý obchodník, který s Provozovatelem uzavře smlouvu o poskytování platebních služeb k přijímání plateb (Obchodník).
+- Fyzická nebo právnická osoba, která s Provozovatelem uzavře smlouvu o poskytování služeb k zprostředkování, nebo prodeji vstupenek (Organizátor) na kulturní, sportovní a další akce (Akce).
 
-- Každý, kdo pomocí Aplikace, Pluginu nebo API platí Obchodníkovi pomocí systému Trisbee a přitom nevyužívá platební služby Provozovatele (Klient Obchodníka).
+## UŽIVATEL
+
+### 2. Zřízení uživatelského účtu
+
+2.1 Nákupem na portálu souhlasí Uživatel s vytvořením Uživatelského účtu.
+
+### 3. Uzavření smlouvy
+
+3.1 Tyto obchodní podmínky upravují práva a povinnosti Provozovatele a Uživatele podle rámcové smlouvy o platebních službách, kterou spolu tyto strany uzavírají tím, že Uživatel na návrh Provozovatele souhlasí s těmito obchodními podmínkami (Smlouva s Uživatelem). Při uzavření se nevyhotovuje znění rámcové smlouvy o platebních službách a její obsah je určen identifikací stran a těmito obchodními podmínkami.Výjimečně mohou Provozovatel a Uživatel uzavřít smlouvu i jako samostatný dokument, který odkáže na tyto obchodní podmínky.
+
+3.2 Předmětem smlouvy je závazek Provozovatele dodat jménem a na účet Pořadatele kupujícímu vstupenky na jím zvolenou Akci.
+
+3.3. Nákup vstupenek provede Uživatel v rozhraní portálu, kde vybere konkrétní Akci a počet kusů. Platbu provede prostřednictvím platební brány XXX
+
+3.4 Smlouva je uzavřena zaplacením vstupenky Uživatelem.
+
+3.5 Vstupenka je dodána Uživateli prostřednictvím e-mailové adresy zadané při zřízení uživatelského účtu neprodleně po nákupu.
+
+3.6 Způsob vracení ceny za Vstupenky se v případě zrušení Akce nebo Vstupenky řídí pokyny Organizátora. Za nahrazení prodaných Vstupenek Uživatelům zodpovídá vždy Organizátor. V případě, že Organizátor zruší Akci nebo Vstupenku a dohodne se s Provozovatelem, že vracení ceny za Vstupenky zajistí Provozovatel, Uživatel bere na vědomí, že výši vrácené částky stanoví Organizátor a že Provozovatel má v tomto případě nárok na paušální odškodnění související s vícenáklady, které musí vynaložit v souvislosti s vrácením plateb za vstupenky.
+
+3.7 V případě vracení ceny za Vstupenky Provozovatelem dle čl. 3.6 Obchodních podmínek, Provozovatel odešle vracenou částku poníženou o hodnotu paušálního odškodnění v souladu s čl. 3.6  Obchodních podmínek v českých korunách na účet, ze kterého byla platba za Vstupenku přijata.
+
+3.8. V případě, že se Organizátor při zrušení Akce nebo Vstupenky rozhodne pro jiný způsob vracení ceny za Vstupenku než dle čl. 3.6 Obchodních podmínek, může Uživatel uplatnit nárok na vrácení ceny Vstupenky pouze u Organizátora.
+
+3.9 Uživatel bere na vědomí, že na smlouvu o koupi Vstupenky se dle ustanovení § 1837 písm. j) zákona č. 89/2012 Sb., občanský zákoník (odstoupení od smlouvy do 14 dnů bez udání důvodů), nevztahuje právo na odstoupení od smlouvy uzavřené za použití prostředků komunikace na dálku a v případě plnění Organizátorem poskytovaném v určeném termínu.
+
+4. Práva a povinnosti Provozovatele
+
+4.1 Za Akci, zejména za její konání, změny, nekonání, její vady, průběh a za jakékoli události, k nimž na Akci došlo, či za cokoli, co by mělo v Akci svůj původ, odpovídá příslušný Organizátor. Případné nároky s Akcí související je nutné vždy uplatnit u Organizátora.
+
+4.2 Provozovatel neodpovídá za obsah, správnost, úplnost nebo aktuálnost informací uvedených Organizátorem v rámci internetové prezentace Akce na Portálu.
+
+4.3 Provozovatel neodpovídá za pozdní doručení nebo nedoručení Vstupenky na Uživatelem zaregistrovaný e-mail nebo za nedoručení SMS na Uživatelem zaregistrované telefonní číslo, pokud problém nastal z důvodů, které nestály na straně Provozovatele.
+
+4.4 Provozovatel je oprávněn v případě, že Organizátor zruší Akci nebo Vstupenku a dohodne se s Provozovatelem, že vracení ceny za Vstupenky zajistí Provozovatel, účtovat v souladu s čl. 3.6 Uživateli paušální odškodnění související s vícenáklady, které musí vynaložit v souvislosti vrácením plateb za Vstupenky. Poplatek je stanoven v minimální výši 3% a zároveň minimálně 10 Kč/ze vstupenky.
+
+4.5 V případě, že Organizátor zruší Akci nebo Vstupenku prostřednictvím Portálu, je Provozovatel povinen zaslat Uživatelům, kteří si na Akci koupili Vstupenky, e-mail nebo SMS informující o zrušení Akce nebo Vstupenky, a to na kontakty, které Uživatel na Portálu uvedl.
+
+4.6 Provozovatel je oprávněn jednostranně obměnit funkce Portálu.
+
+4.7 Provozovatel garantuje dostupnost Portálu 99,9 % času za poslední (3) tři kalendářní měsíce.
+
+4.8 Provozovatel je oprávněn provádět odstávky v provozu Portálu za účelem nutné údržby hardwarového a softwarového vybavení Provozovatele a za účelem změn nastavení Portálu. Plánované odstávky nejsou započítávané do 99,9 % dostupnosti Portálu.
+
+4.9 Provozovatel je oprávněn ukončit prezentaci Nabídky akce, pokud je v rozporu s Obchodními podmínkami nebo obecně závaznými právními předpisy České republiky nebo s dobrými mravy. Již zakoupené Vstupenky v takovém případě zůstávají v platnosti.
+
+4.10 Provozovatel je oprávněn od Uživatele požadovat zvolení jiných Přístupových údajů k Uživatelskému účtu.
+
+4.11 Provozovatel neodpovídá za nefungování, výpadky nebo omezení fungování sítě Internet a za vliv takového nefungování sítě Internet na provoz Portálu.
 
 
-## ČÁST 2 – PRO KLIENTY OBCHODNÍKŮ
-
-### 2.1 Vztah Provozovatele a Klienta obchodníka
-
-I když si Uživatel nainstaluje Aplikaci a i když u nás má platební účet, neposkytujeme mu žádnou platební službu (a neplatí nám tedy ani žádný poplatek), pokud pomocí Aplikace, Pluginu nebo API platí Obchodníkovi, který je jako příjemce registrován v Aplikaci nebo který používá Plugin nebo API k přijímání plateb. V tomto případě slouží Aplikace, Plugin nebo API jako platební terminál Obchodníka a ne jako platební prostředek pro Klienta Obchodníka.
-
-## ČÁST 3 – PRO UŽIVATELE
-
-### 3.1 Uzavření smlouvy s Uživatelem
-
-Tyto obchodní podmínky upravují práva a povinnosti Provozovatele a Uživatele podle rámcové smlouvy o platebních službách, kterou spolu tyto strany uzavírají tím, že Uživatel na návrh Provozovatele souhlasí s těmito obchodními podmínkami (Smlouva s Uživatelem). Při uzavření se nevyhotovuje znění rámcové smlouvy o platebních službách a její obsah je určen identifikací stran a těmito obchodními podmínkami.Výjimečně mohou Provozovatel a Uživatel uzavřít smlouvu i jako samostatný dokument, který odkáže na tyto obchodní podmínky.
-
-### 3.2 Co dělá Provozovatel pro Uživatele?
-
-Provozovatel vyvíjí a provozuje Aplikaci, kterou si Uživatel může nainstalovat a může přes ní platit dalším osobám prostřednictvím mobilní telefonní sítě, případně může přijímat platby od dalších Uživatelů a poskytuje Uživateli platební služby v následujících variantách.
-**Varianta (A): Platím kartou ostatním Uživatelům (mimo Obchodníky) za jejich zboží a služby (Plátce neplatí Provozovateli žádný poplatek, tj. služba je zdarma)**
-Uživatel zadá platební příkaz tak, že v Aplikaci uvede převáděnou částku a české mobilní číslo příjemce (přímo nebo výběrem z uložených kontaktů) a zároveň poskytne převáděnou částku svojí platební kartou. Řečí zákona to znamená, že Provozovatel poskytuje Uživateli platební službu poukazování peněz přes mobilní síť. Hned potom, co Uživatel zadá v Aplikaci příkaz, si Provozovatel strhne ze zadané platební karty peníze k poukázání a odešle na zadané mobilní číslo příjemce SMS (nebo zprávu do Aplikace, pokud ji má příjemce nainstalovanou) s informací o platbě a o tom, jak lze platbu přijmout. Pokud má příjemce platby platební účet Trisbee (jak je popsaný v bodě (D)), považujeme příkaz za přijatý již okamžikem zadání příkazu a připíšeme převáděné prostředky příjemci na jeho platební účet. Pokud příjemce nemá platební účet, dáme mu možnost otevřít si platební účet nebo si nechat peníze poslat na účet v české bance. Platební příkaz považujeme za přijatý okamžikem, kdy nám příjemce oznámí platné číslo bankovního účtu nebo kdy si příjemce otevře platební účet Trisbee. Nejpozději do konce následujícího pracovního dne peníze poukážeme na takový bankovní nebo platební účet. Pokud příkaz nedokážeme přijmout ani 30 dní po jeho zadání (tedy příjemce si v dané lhůtě neotevře platební účet ani nám neoznámí číslo bankovního účtu), pak nás tím Uživatel žádá o otevření platebního účtu. Pokud mu vyhovíme, otevřeme platební účet podle písm. (C) a na něj připíšeme peníze, které měly být určené k provedení platebního příkazu, včetně poplatku. Jinak peníze včetně poplatku vrátíme na platební kartu Uživatele.
-
-OMEZENÍ VARIANTY (A):
-
-V této variantě smí Uživatel posílat platby do maximální výše 6000 CZK pro jednu platbu a do maximálního celkového limitu 60000 CZK za kalendářní rok a smí Aplikaci využít jen k nákupu zboží nebo služeb. Pokud chce Uživatel s touto službou zaplatit za něco jiného, než je zboží nebo služba, musí si k tomu zřídit službu (B). Stejně tak pokud Uživatel limit přesáhne, nabídneme mu službu (B)
-
-**Varianta (B): Platím kartou za cokoliv**
-
-Funguje stejně jako (A), ale než začne Uživatel službu používat, musíme ho identifikovat postupem podle článku 5.1. Po tom, co Uživatele identifikujeme, smí Uživatel provádět i jiné platby než jen nákup zboží a služeb.
 
 
-**Varianta (C): Vedení platebního účtu s možností platit ostatním Uživatelům (mimo Obchodníky) za jejich zboží a služby (Plátce neplatí Provozovateli žádný poplatek, tj. služba je zdarma)**
-
-Pokud někdo pošle peníze na telefonní číslo osoby, která u nás nemá otevřený platební účet, můžeme adresátovi nabídnout otevření platebního účtu. Smlouva o vedení platebního účtu je uzavřena tím, že Uživatel odsouhlasí tyto obchodní podmínky. Uživatel s platebním účtem může přijímat platby od ostatních Uživatelů. A může provádět platby z platebního účtu. Pokud je převáděná částka plus poplatek vyšší než zůstatek na platebním účtu, pak zbývající část strhneme z karty plátce a převedeme ji na platební účet plátce u Provozovatele. Hned potom, co Uživatel zadá v Aplikaci příkaz, odešle Provozovatel na zadané mobilní číslo příjemce SMS (nebo zprávu do Aplikace, pokud ji má příjemce nainstalovanou) s informací o platbě a o tom, jak lze platbu přijmout. Pokud má příjemce platby platební účet Trisbee, považujeme příkaz za přijatý již okamžikem zadání příkazu a připíšeme převáděné prostředky příjemci na jeho na platební účet. Pokud příjemce nemá platební účet, dáme mu možnost otevřít si platební účet nebo si nechat peníze poslat na účet v české bance. Platební příkaz považujeme za přijatý okamžikem, kdy nám příjemce oznámí platné číslo bankovního účtu nebo kdy si příjemce otevře platební účet Trisbee. Nejpozději do konce následujícího pracovního dne peníze poukážeme na takový bankovní nebo platební účet. Pokud příkaz nedokážeme přijmout ani 30 dní po jeho zadání (tedy příjemce si v dané lhůtě neotevře platební účet ani nám neoznámí číslo bankovního účtu), vrátíme peníze, které měly být určené k provedené platebního příkazu, včetně poplatku na platební účet plátce.
-
-OMEZENÍ VARIANTY (C):
-
-V této variantě smí Uživatel posílat platby do maximální výše 6000 CZK pro jednu platbu a do maximálního celkového limitu 60000 CZK za kalendářní rok a smí Aplikaci využít jen k nákupu zboží nebo služeb (nemusí jít jen o příjemce, kteří jsou Obchodníky podle těchto obchodních podmínek, mohou to být i jiní Uživatelé nebo příjemci mimo systém Trisbee). Pokud chce Uživatel s touto službou zaplatit za něco jiného, než je zboží nebo služba, musí nás napřed kontaktovat, abychom se mohli bavit o zřízení služby (D).  Stejně tak pokud Uživatel limit přesáhne, nabídneme mu službu (D).
-
-**Varianta (D): Vedení platebního účtu s možností platit za cokoliv**
-
-Funguje stejně jako (C), ale než začne Uživatel službu používat, musíme ho identifikovat postupem podle článku 5.1. Po tom, co Uživatele identifikujeme, smí Uživatel provádět i jiné platby než jen nákup zboží a služeb. Navíc si smí zůstatek z platebního účtu kdykoliv převést na svůj bankovní účet, který zadá v Aplikaci nebo přes webové rozhraní dostupné z aplikace.
-
-## ČÁST 4 – PRO OBCHODNÍKY
+## Organizátor
 
 ### 4.1 Uzavření smlouvy s Obchodníkem
 
