@@ -1,12 +1,12 @@
 # Obchodní podmínky Trisbee.com
 
-## 1. ÚVOD A ZÁKLADNÍ POJMY
+## ÚVOD A ZÁKLADNÍ POJMY
 
-### 1.1 Trisbee tickets
+### 1. Trisbee tickets
 
 Je služba určená k online prodeji vstupenek - ticketingu. Díky Trisbee tickets, je možné jednoduše nakupovat, prodávat, ale také objevovat kulturní, sportovní a další akce. K tomu slouží online portál www.tickets.trisbee.com. Dále také odbavovací aplikace, kterou provozovatel poskytuje pořadateli akce.
 
-### 1.2 Kdo se řídí těmito obchodními podmínkami?
+### 2. Kdo se řídí těmito obchodními podmínkami?
 
 - Trisbee s.r.o., se sídlem Vokovice, K Červenému vrchu 678/1, PSČ 160 00, IČO: 04775660, vedená v OR u Městského soudu v Praze pod spisovou značkou C 306886 (Provozovatel nebo my), jako provozovatel portálu.
 
@@ -16,54 +16,53 @@ Je služba určená k online prodeji vstupenek - ticketingu. Díky Trisbee ticke
 
 ## UŽIVATEL
 
-### 2. Zřízení uživatelského účtu
+### 3. Zřízení uživatelského účtu
 
-2.1 Nákupem na portálu souhlasí Uživatel s vytvořením Uživatelského účtu.
+3.1 Nákupem na portálu souhlasí Uživatel s vytvořením Uživatelského účtu.
 
-### 3. Uzavření smlouvy
+### 4. Uzavření smlouvy
 
-3.1 Tyto obchodní podmínky upravují práva a povinnosti Provozovatele a Uživatele podle rámcové smlouvy o platebních službách, kterou spolu tyto strany uzavírají tím, že Uživatel na návrh Provozovatele souhlasí s těmito obchodními podmínkami (Smlouva s Uživatelem). Při uzavření se nevyhotovuje znění rámcové smlouvy o platebních službách a její obsah je určen identifikací stran a těmito obchodními podmínkami.Výjimečně mohou Provozovatel a Uživatel uzavřít smlouvu i jako samostatný dokument, který odkáže na tyto obchodní podmínky.
+4.1 Tyto obchodní podmínky upravují práva a povinnosti Provozovatele a Uživatele podle rámcové smlouvy o platebních službách, kterou spolu tyto strany uzavírají tím, že Uživatel na návrh Provozovatele souhlasí s těmito obchodními podmínkami (Smlouva s Uživatelem). Při uzavření se nevyhotovuje znění rámcové smlouvy o platebních službách a její obsah je určen identifikací stran a těmito obchodními podmínkami.Výjimečně mohou Provozovatel a Uživatel uzavřít smlouvu i jako samostatný dokument, který odkáže na tyto obchodní podmínky.
 
-3.2 Předmětem smlouvy je závazek Provozovatele dodat jménem a na účet Pořadatele kupujícímu vstupenky na jím zvolenou Akci.
+4.2 Předmětem smlouvy je závazek Provozovatele dodat jménem a na účet Pořadatele kupujícímu vstupenky na jím zvolenou Akci.
 
-3.3. Nákup vstupenek provede Uživatel v rozhraní portálu, kde vybere konkrétní Akci a počet kusů. Platbu provede prostřednictvím platební brány XXX
+4.3 Nákup vstupenek provede Uživatel v rozhraní portálu, kde vybere konkrétní Akci a počet kusů. Platbu provede prostřednictvím platební brány XXX
 
-3.4 Smlouva je uzavřena zaplacením vstupenky Uživatelem.
+4.4 Smlouva je uzavřena zaplacením vstupenky Uživatelem.
 
-3.5 Vstupenka je dodána Uživateli prostřednictvím e-mailové adresy zadané při zřízení uživatelského účtu neprodleně po nákupu.
+4.5 Vstupenka je dodána Uživateli prostřednictvím e-mailové adresy zadané při zřízení uživatelského účtu neprodleně po nákupu.
 
-3.6 Způsob vracení ceny za Vstupenky se v případě zrušení Akce nebo Vstupenky řídí pokyny Organizátora. Za nahrazení prodaných Vstupenek Uživatelům zodpovídá vždy Organizátor. V případě, že Organizátor zruší Akci nebo Vstupenku a dohodne se s Provozovatelem, že vracení ceny za Vstupenky zajistí Provozovatel, Uživatel bere na vědomí, že výši vrácené částky stanoví Organizátor a že Provozovatel má v tomto případě nárok na paušální odškodnění související s vícenáklady, které musí vynaložit v souvislosti s vrácením plateb za vstupenky.
+4.6 Způsob vracení ceny za Vstupenky se v případě zrušení Akce nebo Vstupenky řídí pokyny Organizátora. Za nahrazení prodaných Vstupenek Uživatelům zodpovídá vždy Organizátor. V případě, že Organizátor zruší Akci nebo Vstupenku a dohodne se s Provozovatelem, že vracení ceny za Vstupenky zajistí Provozovatel, Uživatel bere na vědomí, že výši vrácené částky stanoví Organizátor a že Provozovatel má v tomto případě nárok na paušální odškodnění související s vícenáklady, které musí vynaložit v souvislosti s vrácením plateb za vstupenky.
 
-3.7 V případě vracení ceny za Vstupenky Provozovatelem dle čl. 3.6 Obchodních podmínek, Provozovatel odešle vracenou částku poníženou o hodnotu paušálního odškodnění v souladu s čl. 3.6  Obchodních podmínek v českých korunách na účet, ze kterého byla platba za Vstupenku přijata.
+4.7 V případě vracení ceny za Vstupenky Provozovatelem dle čl. 4.6 Obchodních podmínek, Provozovatel odešle vracenou částku poníženou o hodnotu paušálního odškodnění v souladu s čl. 4.6  Obchodních podmínek v českých korunách na účet, ze kterého byla platba za Vstupenku přijata.
 
-3.8. V případě, že se Organizátor při zrušení Akce nebo Vstupenky rozhodne pro jiný způsob vracení ceny za Vstupenku než dle čl. 3.6 Obchodních podmínek, může Uživatel uplatnit nárok na vrácení ceny Vstupenky pouze u Organizátora.
+4.8. V případě, že se Organizátor při zrušení Akce nebo Vstupenky rozhodne pro jiný způsob vracení ceny za Vstupenku než dle čl. 4.6 Obchodních podmínek, může Uživatel uplatnit nárok na vrácení ceny Vstupenky pouze u Organizátora.
 
-3.9 Uživatel bere na vědomí, že na smlouvu o koupi Vstupenky se dle ustanovení § 1837 písm. j) zákona č. 89/2012 Sb., občanský zákoník (odstoupení od smlouvy do 14 dnů bez udání důvodů), nevztahuje právo na odstoupení od smlouvy uzavřené za použití prostředků komunikace na dálku a v případě plnění Organizátorem poskytovaném v určeném termínu.
+4.9 Uživatel bere na vědomí, že na smlouvu o koupi Vstupenky se dle ustanovení § 1837 písm. j) zákona č. 89/2012 Sb., občanský zákoník (odstoupení od smlouvy do 14 dnů bez udání důvodů), nevztahuje právo na odstoupení od smlouvy uzavřené za použití prostředků komunikace na dálku a v případě plnění Organizátorem poskytovaném v určeném termínu.
 
-4. Práva a povinnosti Provozovatele
+5. Práva a povinnosti Provozovatele
 
-4.1 Za Akci, zejména za její konání, změny, nekonání, její vady, průběh a za jakékoli události, k nimž na Akci došlo, či za cokoli, co by mělo v Akci svůj původ, odpovídá příslušný Organizátor. Případné nároky s Akcí související je nutné vždy uplatnit u Organizátora.
+5.1 Za Akci, zejména za její konání, změny, nekonání, její vady, průběh a za jakékoli události, k nimž na Akci došlo, či za cokoli, co by mělo v Akci svůj původ, odpovídá příslušný Organizátor. Případné nároky s Akcí související je nutné vždy uplatnit u Organizátora.
 
-4.2 Provozovatel neodpovídá za obsah, správnost, úplnost nebo aktuálnost informací uvedených Organizátorem v rámci internetové prezentace Akce na Portálu.
+5.2 Provozovatel neodpovídá za obsah, správnost, úplnost nebo aktuálnost informací uvedených Organizátorem v rámci internetové prezentace Akce na Portálu.
 
-4.3 Provozovatel neodpovídá za pozdní doručení nebo nedoručení Vstupenky na Uživatelem zaregistrovaný e-mail nebo za nedoručení SMS na Uživatelem zaregistrované telefonní číslo, pokud problém nastal z důvodů, které nestály na straně Provozovatele.
+5.3 Provozovatel neodpovídá za pozdní doručení nebo nedoručení Vstupenky na Uživatelem zaregistrovaný e-mail nebo za nedoručení SMS na Uživatelem zaregistrované telefonní číslo, pokud problém nastal z důvodů, které nestály na straně Provozovatele.
 
-4.4 Provozovatel je oprávněn v případě, že Organizátor zruší Akci nebo Vstupenku a dohodne se s Provozovatelem, že vracení ceny za Vstupenky zajistí Provozovatel, účtovat v souladu s čl. 3.6 Uživateli paušální odškodnění související s vícenáklady, které musí vynaložit v souvislosti vrácením plateb za Vstupenky. Poplatek je stanoven v minimální výši 3% a zároveň minimálně 10 Kč/ze vstupenky.
+5.4 Provozovatel je oprávněn v případě, že Organizátor zruší Akci nebo Vstupenku a dohodne se s Provozovatelem, že vracení ceny za Vstupenky zajistí Provozovatel, účtovat v souladu s čl. 4.6 Uživateli paušální odškodnění související s vícenáklady, které musí vynaložit v souvislosti vrácením plateb za Vstupenky. Poplatek je stanoven v minimální výši 3% a zároveň minimálně 10 Kč/ze vstupenky.
 
-4.5 V případě, že Organizátor zruší Akci nebo Vstupenku prostřednictvím Portálu, je Provozovatel povinen zaslat Uživatelům, kteří si na Akci koupili Vstupenky, e-mail nebo SMS informující o zrušení Akce nebo Vstupenky, a to na kontakty, které Uživatel na Portálu uvedl.
+5.5 V případě, že Organizátor zruší Akci nebo Vstupenku prostřednictvím Portálu, je Provozovatel povinen zaslat Uživatelům, kteří si na Akci koupili Vstupenky, e-mail nebo SMS informující o zrušení Akce nebo Vstupenky, a to na kontakty, které Uživatel na Portálu uvedl.
 
-4.6 Provozovatel je oprávněn jednostranně obměnit funkce Portálu.
+5.6 Provozovatel je oprávněn jednostranně obměnit funkce Portálu.
 
-4.7 Provozovatel garantuje dostupnost Portálu 99,9 % času za poslední (3) tři kalendářní měsíce.
+5.7 Provozovatel garantuje dostupnost Portálu 99,9 % času za poslední (3) tři kalendářní měsíce.
 
-4.8 Provozovatel je oprávněn provádět odstávky v provozu Portálu za účelem nutné údržby hardwarového a softwarového vybavení Provozovatele a za účelem změn nastavení Portálu. Plánované odstávky nejsou započítávané do 99,9 % dostupnosti Portálu.
+5.8 Provozovatel je oprávněn provádět odstávky v provozu Portálu za účelem nutné údržby hardwarového a softwarového vybavení Provozovatele a za účelem změn nastavení Portálu. Plánované odstávky nejsou započítávané do 99,9 % dostupnosti Portálu.
 
-4.9 Provozovatel je oprávněn ukončit prezentaci Nabídky akce, pokud je v rozporu s Obchodními podmínkami nebo obecně závaznými právními předpisy České republiky nebo s dobrými mravy. Již zakoupené Vstupenky v takovém případě zůstávají v platnosti.
+5.9 Provozovatel je oprávněn ukončit prezentaci Nabídky akce, pokud je v rozporu s Obchodními podmínkami nebo obecně závaznými právními předpisy České republiky nebo s dobrými mravy. Již zakoupené Vstupenky v takovém případě zůstávají v platnosti.
 
-4.10 Provozovatel je oprávněn od Uživatele požadovat zvolení jiných Přístupových údajů k Uživatelskému účtu.
+5.10 Provozovatel je oprávněn od Uživatele požadovat zvolení jiných Přístupových údajů k Uživatelskému účtu.
 
-4.11 Provozovatel neodpovídá za nefungování, výpadky nebo omezení fungování sítě Internet a za vliv takového nefungování sítě Internet na provoz Portálu.
-
+5.11 Provozovatel neodpovídá za nefungování, výpadky nebo omezení fungování sítě Internet a za vliv takového nefungování sítě Internet na provoz Portálu.
 
 
 
